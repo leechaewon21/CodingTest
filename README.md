@@ -5,7 +5,8 @@
 <br>
 
 ### 🔨 Simulation
-- [X] [백준1004번](https://leechaewon.tistory.com/65)
+- [X] [백준1004](https://leechaewon.tistory.com/65)
+- [X] [백준1388](https://leechaewon.tistory.com/66)
 ### 🔨 DFS, BFS, Recursive, BruteForce
 ### 🔨 DP
 ### 🔨 Greedy
